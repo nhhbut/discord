@@ -135,11 +135,10 @@ video {
 
 
 .description {
-    color: #999999;
+    color: white;
     font-family: sans-serif; 
     font-weight: 600;
     font-size: 14px;
-    opacity: 0.7;
     user-select: none;
     display: flex;
     justify-content: center;
@@ -218,7 +217,7 @@ hr {
 }
 
 .social-button:hover {
-    background-color: #ea00ff; 
+    background-color: black 
 }
 
 .social-icon {
